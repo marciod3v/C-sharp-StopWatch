@@ -1,0 +1,14 @@
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.AssemblyInfoInputs.cache
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.AssemblyInfo.cs
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.csproj.CoreCompileInputs.cache
+C:\dotNetEstudos\cronometro\bin\Debug\net9.0\cronometro.exe
+C:\dotNetEstudos\cronometro\bin\Debug\net9.0\cronometro.deps.json
+C:\dotNetEstudos\cronometro\bin\Debug\net9.0\cronometro.runtimeconfig.json
+C:\dotNetEstudos\cronometro\bin\Debug\net9.0\cronometro.dll
+C:\dotNetEstudos\cronometro\bin\Debug\net9.0\cronometro.pdb
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.dll
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\refint\cronometro.dll
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.pdb
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.genruntimeconfig.cache
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\ref\cronometro.dll
