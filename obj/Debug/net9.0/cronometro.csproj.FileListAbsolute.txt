@@ -12,3 +12,4 @@ C:\dotNetEstudos\cronometro\obj\Debug\net9.0\refint\cronometro.dll
 C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.pdb
 C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.genruntimeconfig.cache
 C:\dotNetEstudos\cronometro\obj\Debug\net9.0\ref\cronometro.dll
+C:\dotNetEstudos\cronometro\obj\Debug\net9.0\cronometro.sourcelink.json

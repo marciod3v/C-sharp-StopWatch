@@ -15,9 +15,9 @@ namespace Cronometro
             Console.Clear();
             Console.WriteLine("Ready...");
             Thread.Sleep(1000);
-            Console.Write("Set...");
+            Console.WriteLine("Set...");
             Thread.Sleep(1000);
-            Console.Write("Go...");
+            Console.WriteLine("Go...");
             Thread.Sleep(1000);
 
             Start(time);
